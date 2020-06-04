@@ -88,7 +88,7 @@ Amend 202 to read:
 ```
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
 
-In mail and computer games, instead of throwing a die, players subtract 202 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. In the event that there is a dispute about which integer is nearest, https://github.com/ereddrex will decide which integer is nearest. 
+In mail and computer games, instead of throwing a die, players subtract 303 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. In the event that there is a dispute about which integer is nearest, https://github.com/ereddrex will decide which integer is nearest. 
 ```
 
 202 will be updated directly in the github repo to indicate that it has been amended. 
