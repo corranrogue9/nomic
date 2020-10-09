@@ -82,3 +82,7 @@ Ammend rule 205 to read: An adopted rule-change takes full effect at the moment 
 ## 307
 
 Only players present at the time of a vote are considered "eligible" for the purposes of rule 203. 
+
+## 308
+
+Allow people to join the game after it has already been started and they start with 0 points. Their first turn is still dictated by 201
