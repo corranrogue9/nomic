@@ -86,3 +86,7 @@ Only players present at the time of a vote are considered "eligible" for the pur
 ## 308
 
 Allow people to join the game after it has already been started and they start with 0 points. Their first turn is still dictated by 201
+
+## 310
+
+Amend rule 203 to read: A vote will be valid if it is anonymous and all players voted at the same time using Polly with settings: to make vote anonymous and don't share results to audience (Polly creator should share the results at the end of the voting step). A rule-change is adopted if and only if a valid vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
