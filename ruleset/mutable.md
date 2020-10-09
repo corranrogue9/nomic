@@ -75,5 +75,10 @@ If the rules are changed so that further play is impossible, or if the legality 
 
 This rule takes precedence over every other rule determining the winner.
 
-## 306. 
+## 306
+
 Ammend rule 205 to read: An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it. And a non-adopted rule-change may take full effect if the vote to defeat it was unanimous.
+
+## 307
+
+Only players present at the time of a vote are considered "eligible" for the purposes of rule 203. 
