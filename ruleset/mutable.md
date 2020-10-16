@@ -94,3 +94,7 @@ Amend rule 203 to read: A vote will be valid if it is anonymous and all players 
 ## 312
 
 Amend Rule 206 to read: When a proposed rule-change is defeated, the player who proposed it loses 20 * (total rejection/all eligible voters) points.
+
+## 313
+
+At the end of each session (i.e. "weekly" meeting), each person, whose name start with "Kir" and ends with "ill", gets 50 points automatically.
